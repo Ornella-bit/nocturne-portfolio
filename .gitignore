@@ -1,0 +1,15 @@
+# Qoder Sites descriptor + publication metadata
+.NOCTURNE.qoder.site
+
+# Raw generated PNG masters (optimized JPEGs live in dist/assets)
+vibe_images/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+node_modules/
+.env
+.env.*
